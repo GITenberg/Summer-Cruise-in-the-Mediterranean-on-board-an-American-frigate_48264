@@ -1,4 +1,8 @@
 _repo: Summer-Cruise-in-the-Mediterranean-on-board-an-American-frigate_48264
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48264-h/images/cover.jpg
 creator:
   author:
     agent_name: Willis, Nathaniel Parker
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6238
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Parker_Willis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48264#Summer-Cruise-in-the-Mediterranean-on-board-an-American-frigate
 gutenberg_issued: '2015-02-15'
 gutenberg_type: Text
 identifiers:
